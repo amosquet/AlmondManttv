@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlmondManttv
 - 👀 I’m interested in many things! Coding is one of them
-- 🌱 I’m currently learning Python and and planning on learning Java and C#
-- 💞️ I’m looking to collaborate on Nothing at the moment
+- 🌱 I’m currently learning Python and am planning on learning Java and C#
+- 💞️ Am I looking to collaborate? Sure! if you can help out with the developement of my projets then sure or if you want me to help with one of yours that all good too!
 - 📫 How to reach me almondman@trollclan.com
 
 <!---
