@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlmondManttv
 - 👀 I’m interested in many things! Coding is one of them
-- 🌱 I’m currently learning Python, Java, and know a little bit of C++
+- 🌱 I know Python, Java, and a little bit of C++
 - 💞️ Am I looking to collaborate? Sure! if you think that you can help me or if you want me to help with one of your projects that all good too!
 - 📫 How to reach me almondman@trollclan.com
 
